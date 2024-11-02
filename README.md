@@ -113,3 +113,12 @@ subsription duration =[SubscriptionEnd] - [SubscriptionStart
 Cancellation conditional column- if cancelled equals TRUE Then 1 else 0
  Table.AddColumn(#"Changed Type", "Cancellation", each if [Canceled] = true then 1 else 0)
 ```
+
+### Data Visualization
+Pivot table
+![Screenshot (22)](https://github.com/user-attachments/assets/241de696-faa8-40a4-a1ab-000844620a75)
+
+Power bi Visualization
+![Screenshot (23)](https://github.com/user-attachments/assets/9543c64e-e486-4c5c-930f-87c0e5ba866c)
+
+
