@@ -97,7 +97,7 @@ select * from [dbo].[LITA Capstone Customer Dataset]
 
 ----top 3 regions with cancelled subscription
 select top 3 count([Canceled]) as cancellation ,[Region]  from [dbo].[LITA Capstone Customer Dataset]
-where [Canceled] = 0
+where [Canceled] = 1
 group by [Region]
 order by 1 desc
 ```
