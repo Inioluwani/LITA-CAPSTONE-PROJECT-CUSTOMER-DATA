@@ -121,4 +121,8 @@ Pivot table
 Power bi Visualization
 ![Screenshot (23)](https://github.com/user-attachments/assets/9543c64e-e486-4c5c-930f-87c0e5ba866c)
 
+### Observation from Visualizations
+Looking at the subscription trends, the highest revenue was from the basic subscription type with a total revenue of 33,776,735 and the least revenue from the standard subscription type with a total revenue of 16,864,376. The region with the highest revenue is the East with revenue of 16,958,763 and only the basic subscription type is subscribed to in the East. Only the basic subscription type is subscribed to in the North which has the least total revenue of 16,817,972. Only the premium is subsribed to in the South and only the standard is subscribed to in the West. The top 5 customers by revenue are Liam,Mike,Sophia,Nina and Anna with revenues of 343744,3427436,3414995,3399895 and 3398288 respectively.
+
+The region with the highest calculation is the East with a total cancellation of 8488
 
